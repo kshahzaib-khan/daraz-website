@@ -1,0 +1,2 @@
+[23-Jun-2022 02:22:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home4/demotes7/public_html/Daraz-Website/storage/framework/views/c1eaea831ec23ec2f57d77af6532fbfa00994671.php on line 246
+[23-Jun-2022 02:22:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home4/demotes7/public_html/Daraz-Website/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
